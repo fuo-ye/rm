@@ -1,0 +1,35 @@
+
+GraphedExpression="Chassis.PowerControl.Power_Limit", Color=#a00909
+OpenDocument="tasks.c", FilePath="D:/robot/new_robot/Chassis_C/Chassis_C/Middlewares/Third_Party/FreeRTOS/Source/tasks.c", Line=3576
+OpenDocument="chassis_task.c", FilePath="D:/robot/new_robot/Chassis_C/Chassis_C/Application/chassis_task.c", Line=735
+OpenDocument="std.jdebug.user", FilePath="D:/robot/new_robot/Standard Infantry 2022/Standard Infantry 2022/std.jdebug.user", Line=0
+OpenDocument="main.c", FilePath="D:/robot/new_robot/Chassis_C/Chassis_C/Src/main.c", Line=62
+OpenToolbar="Debug", Floating=0, x=0, y=0
+OpenWindow="Registers 1", DockArea=RIGHT, x=0, y=2, w=1009, h=296, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, FilteredItems=[], RefreshRate=1
+OpenWindow="Source Files", DockArea=LEFT, x=0, y=0, w=568, h=854, TabPos=1, TopOfStack=0, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Disassembly", DockArea=RIGHT, x=0, y=0, w=1009, h=272, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Watched Data 1", DockArea=LEFT, x=0, y=0, w=568, h=854, TabPos=0, TopOfStack=1, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+OpenWindow="Data Sampling", DockArea=BOTTOM, x=1, y=0, w=469, h=234, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, VisibleTab=0, UniformSampleSpacing=0
+OpenWindow="Timeline", DockArea=RIGHT, x=0, y=1, w=1009, h=300, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0, DataPaneShown=1, PowerPaneShown=0, CodePaneShown=0, PinCursor="Cursor Movable", TimePerDiv="5 s / Div", TimeStampFormat="Time", DataGraphDrawAsPoints=0, DataGraphLegendShown=0, DataGraphUniformSampleSpacing=0, DataGraphLegendPosition="577;0", PowerGraphDrawAsPoints=0, PowerGraphLegendShown=0, PowerGraphAvgFilterTime=Off, PowerGraphAvgFilterLen=Off, PowerGraphUniformSampleSpacing=0, PowerGraphLegendPosition="390;-7", CodeGraphLegendShown=0, CodeGraphLegendPosition="404;0"
+OpenWindow="Console", DockArea=BOTTOM, x=0, y=0, w=1450, h=234, FilterBarShown=0, TotalValueBarShown=0, ToolBarShown=0
+TableHeader="Source Files", SortCol="File", SortOrder="ASCENDING", VisibleCols=["File";"Status";"Size";"#Insts";"Path"], ColWidths=[233;100;100;100;798]
+TableHeader="Watched Data 1", SortCol="Expression", SortOrder="ASCENDING", VisibleCols=["Expression";"Value";"Location";"Refresh"], ColWidths=[333;259;100;100]
+TableHeader="Data Sampling Table", SortCol="None", SortOrder="ASCENDING", VisibleCols=["Index";"Time";" Chassis.PowerControl.Power_Limit"], ColWidths=[100;100;100]
+TableHeader="Data Sampling Setup", SortCol="Min. Change", SortOrder="DESCENDING", VisibleCols=["Expression";"Type";"Value";"Min";"Max";"Average";"# Changes";"Min. Change";"Max. Change"], ColWidths=[190;100;100;100;100;100;100;107;107]
+TableHeader="Power Sampling", SortCol="Index", SortOrder="ASCENDING", VisibleCols=["Index";"Time";"Ch 0"], ColWidths=[100;100;100]
+TableHeader="Task List", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Run Count";"Priority";"Status";"Timeout";"Stack Info (Free / Size)";"ID";"Mutex Count";"Notified Value";"Notify State"], ColWidths=[110;110;110;110;110;110;110;110;110;110]
+TableHeader="Registers 1", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Description"], ColWidths=[128;105;755]
+TableHeader="RegisterSelectionDialog", SortCol="None", SortOrder="ASCENDING", VisibleCols=[], ColWidths=[]
+TableHeader="TargetExceptionDialog", SortCol="Name", SortOrder="ASCENDING", VisibleCols=["Name";"Value";"Address";"Description"], ColWidths=[27;27;27;26]
+WatchedExpression="Chassis", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="Gimbal", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="bullet_speed", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="shoot_data", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="robot_state", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="judgement_receive", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="remote_control", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="RC_Data_Buf", RefreshRate=1, Window=Watched Data 1
+WatchedExpression="ina226", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="count_CAN", RefreshRate=5, Window=Watched Data 1
+WatchedExpression="CAP_flag", RefreshRate=2, Window=Watched Data 1
+WatchedExpression="Chassis.PowerControl.Power_Limit", RefreshRate=5, Window=Watched Data 1
